@@ -1,0 +1,48 @@
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDEs and editors
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Debug files
+*.pdb
+
+# Backup files
+*.bak
+
+# Environment files
+.env
+
+# Dependency directories (if you're using any JavaScript/Node.js tools)
+node_modules/
+
+# Logs
+*.log
+
+# If you're using any database
+*.sqlite
+
+# If you're generating documentation
+/doc/
+
+# If you have any specific build output directory
+/dist/
+/out/
+
+# Any other project-specific files or directories you want to ignore
